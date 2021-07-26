@@ -1,7 +1,19 @@
-.App {
+/* .App {
   text-align: center;
+} */
+#asg {
+  color: blue;
+  background-color: rgb(241, 238, 238);
+  font-weight: 500;
 }
-
+#b {
+  color: blue;
+}
+#a {
+  /* padding-top: 100px; */
+  padding: 50px 100px 10px 100px; /*trbl*/
+}
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,7 +47,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-.logged-in {
-  display: flex;
-}
+} */
